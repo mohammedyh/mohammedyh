@@ -1,8 +1,8 @@
 ### Hello, I'm Mohammed!
 
 ## I am a Front-End Developer and Student
-- 🔭 I’m currently working on my portfolio
 - 🚀 I am currently learning React
+- 🔭 I’m currently working on my portfolio
 - 📚 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun Fact: I enjoy reading and drawing!
 
