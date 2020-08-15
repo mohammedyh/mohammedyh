@@ -21,4 +21,4 @@
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.dedicateddeveloper.vercel.app/api?username=DedicatedDeveloper&show_icons=true&hide_border=true" align="left" alt="My GitHub Stats" />
+<img src="https://github-readme-stats-git-master.dedicateddeveloper.vercel.app/api?username=DedicatedDeveloper&show_icons=true&hide_border=true" align="left" alt="My GitHub Stats" />
