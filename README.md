@@ -18,7 +18,3 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" align="left" alt="npm" width="26px" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" align="left" alt="terminal" width="26px" />
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="26px" />
-
-### GitHub Stats
-
-<img src="https://github-readme-stats-git-master.dedicateddeveloper.vercel.app/api?username=DedicatedDeveloper&show_icons=true&hide_border=true" align="left" alt="My GitHub Stats" />
