@@ -3,7 +3,7 @@
 ## I am a Front-End Developer and Student
 - 🚀 I am currently learning React
 - 🔭 I’m currently working on my portfolio
-- 📚 2020 Goals: Contribute to Open Source projects
+- 📚 2021 Goals: Complete professional pathway on Frontend Masters
 - ⚡ Fun Fact: I enjoy reading and drawing!
 
 ### Languages and Tools
