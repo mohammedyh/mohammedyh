@@ -18,4 +18,4 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" align="left" alt="terminal" width="26px" />
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="26px" />
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedyh&theme=vue-dark&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedyh&theme=react&show_icons=true)
