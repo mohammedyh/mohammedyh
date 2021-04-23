@@ -2,9 +2,9 @@
 
 ## I am a Front-End Developer and Student
 - 🚀 I am currently learning React
-- 🔭 I’m currently working on my portfolio
+- 🔭 I’m currently working on building a blog using Eleventy
 - 📚 2021 Goals: Complete professional pathway on Frontend Masters
-- ⚡ Fun Fact: I enjoy reading and drawing!
+- ⚡ Fun Fact: I can solve the Rubiks Cube in under 20 seconds!
 
 ### Languages and Tools
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" align="left" alt="Visual Studio Code" width="26px" />
