@@ -1,9 +1,9 @@
 ### Hello, I'm Mohammed!
 
 ## I am a Front-End Developer and Student
-- 🚀 I am currently learning React
+- 🚀 I am currently re-learning JavaScript
 - 🔭 I’m currently working on building a blog using Eleventy
-- 📚 2021 Goals: Complete professional pathway on Frontend Masters
+- 📚 2021 Goals: Complete professional pathway on Frontend Masters and code a UI component every day
 - ⚡ Fun Fact: I can solve the Rubiks Cube in under 20 seconds!
 
 ### Languages and Tools
