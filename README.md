@@ -2,7 +2,7 @@
 
 ## I am a Front-End Developer and Student
 - 🚀 I am currently learning WordPress, PHP & MySQL
-- 🔭 I’m currently working on building a blog using Eleventy
+- 🔭 I’m currently building a blog using WordPress
 - 📚 2021 Goals: Complete professional pathway on Frontend Masters and code a UI component every day
 - ⚡ Fun Fact: I can solve the Rubiks Cube in under 20 seconds!
 
