@@ -2,7 +2,7 @@
 
 ## I am a Front-End Developer and Student
 - 🚀 I am currently learning WordPress, PHP & MySQL
-- 🔭 I’m currently building a blog using WordPress
+- 🔭 I’m currently building a blog using Next.js
 - 📚 2021 Goals: Learn Laravel and MVC
 - ⚡ Fun Fact: I can solve the Rubiks Cube in under 20 seconds!
 
