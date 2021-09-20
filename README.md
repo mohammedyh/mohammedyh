@@ -1,9 +1,9 @@
-### Hello, I'm Mohammed!
+## Hey, I'm Mohammed!
 
-## I am a Front-End Developer and Student
-- 🚀 I am currently learning Laravel
-- 🔭 I’m currently building a blog using Next.js
-- 📚 2021 Goals: Learn Next.js and deploy blog
+### I am a Web Developer
+- 🚀 I am currently learning Laravel.
+- 🔭 I’m currently building a blog using Laravel and TailwindCSS.
+- 📚 2021 Goals: Successfully deploy a Laravel project.
 - ⚡ Fun Fact: I can solve the Rubiks Cube in under 20 seconds!
 
 ### Languages and Tools
