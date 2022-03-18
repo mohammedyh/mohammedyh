@@ -1,7 +1,6 @@
 ## Hey, I'm Mo!
 
-- 🚀 I am currently learning Livewire.
-- 🔭 I’m building a blog using Laravel and TailwindCSS.
+- 🚀 I am currently learning Node.
 - 📚 2022 Goals: Successfully deploy a Full Stack project.
 - ⚡ Fun Fact: I can solve the Rubiks Cube in under 20 seconds!
 
