@@ -1,4 +1,4 @@
-# Hey, I'm Mohammed!
+# Hey!
 
 🎯 Goals: Write some code everyday
 
