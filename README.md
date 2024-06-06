@@ -1,6 +1,6 @@
 # Hey!
 
-🎯 Goals: Write some code everyday
+🎯 Goals: Learn Go
 
 ⚡ Fun Fact: I can solve the 3x3 Rubiks Cube in under 25 seconds!
 
@@ -10,6 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="left" alt="javascript" width="26" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="left" alt="react.js" width="26" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="left" alt="node" width="26" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" align="left" alt="go" width="30" />
 <img src="https://laravel.com/img/logomark.min.svg" align="left" alt="laravel" width="26" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" align="left" alt="livewire" width="34" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" align="left" alt="tailwind" width="26" />
