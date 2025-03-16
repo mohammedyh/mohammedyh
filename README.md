@@ -1,6 +1,6 @@
 # Hey!
 
-🎯 Goals: Learn Go
+🎯 Goals: Build using Go
 
 ⚡ Fun Fact: I can solve the 3x3 Rubiks Cube in under 25 seconds!
 
